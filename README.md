@@ -123,10 +123,4 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 
-## 📧 Contact
-
-Samarth Bura - [@samarth_bura](https://www.linkedin.com/in/samarth-bura-25717622a/) - samarthvbura@gmail.com
-
-Project Link: [https://github.com/samarthNV/YouTube_Comment_Classifier](https://github.com/samarthNV/YouTube_Comment_Classifier)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
